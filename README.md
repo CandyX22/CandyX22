@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @CandyX22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CandyX22/CandyX22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in programming and coding
+- 🌱 I’m currently learning 
+- 💞️ I want to collaborate on coding and explore other programming languages
