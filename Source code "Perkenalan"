@@ -1,8 +1,7 @@
-#Candy soeka wiyono - 064002200012
 print ("nama kamu siapa?")
 x = input()
 print ("hallo selamat siang," + x)
-print ("dari mana asal kamu candy?")
+print ("dari mana asal kamu candyx22?")
 y = input()
 print ("Wah dari," + y)
 print("Sebelumnya bersekolah dimana?")
