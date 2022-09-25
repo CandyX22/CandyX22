@@ -1,4 +1,4 @@
-#Candy soeka wiyono - 064002200012
+#CandyX22
 print("Hitung Luas Ruangan")
 a = float(input("Masukan Panjang Ruangan:"))
 b = float(input("Masukan Lebar Ruangan:"))
