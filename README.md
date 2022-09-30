@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CandyX22
 - 👀 I’m interested in programming and coding
-- 🌱 I’m currently learning 
+- 👨‍💻 I’m currently learning 
 - 💞️ I want to collaborate on coding and explore other programming languages
