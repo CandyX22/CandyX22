@@ -1,0 +1,12 @@
+#candy soeka wiyono_064002200012
+#program yang menerima tiga bilangan yang merupakan panjang dari sisi-sisi sebuah segitiga.(sama sisi, sama kaki, atau sembarang).
+s1=int(input("masukin garis satu"))
+s2=int(input("masukin garis dua"))
+s3=int(input("masukin garis tiga"))
+
+if s1 == s2 == s3 :
+    print("segitiga sama sisi")
+elif s1==s2!=s3 or s1!=s2 ==s3 or s1==s3!=s2 :
+    print("segitiga sama kaki")
+else :
+    print("segitiga sembarang")
