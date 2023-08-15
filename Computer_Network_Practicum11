@@ -1,0 +1,26 @@
+(base) C:\Users\User>cd C:/Users/User/Documents/M_Jakom11
+(base) C:\Users\User>cd C:/Users/User/Documents/M_Jakom11
+(base) C:\Users\User>cd C:/Users/User/Documents/M_Jakom11
+
+
+(base) C:\Users\User\Documents\M_Jakom11>python3 server.py
+Host: localhost
+Port: 0001
+New connection at ID 0 ('127.0.0.1', 54428)
+New connection at ID 1 ('127.0.0.1', 54336)
+ID 0: ID 0: Hallo Candy! Apa kabar?
+ID 0: ID 1: Hallo Candy, Kabar baik :)
+
+(base) C:\Users\User>cd C:\Users\User\Documents\M_Jakom11
+(base) C:\Users\User\Documents\M_Jakom11>python3 client.py
+Host: localhost
+Port: 0001
+ID 0: Hallo Candy! Apa kabar?
+ID 1: Hallo Candy, Kabar baik :)
+
+(base) C:\Users\User>cd C:\Users\User\Documents\M_Jakom11
+(base) C:\Users\User\Documents\M_Jakom11>python3 client.py
+Host: localhost
+Port: 0001
+ID 0: Hallo Candy! Apa kabar?
+ID 1: Hallo Candy, Kabar baik :)
